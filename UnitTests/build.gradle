@@ -1,3 +1,5 @@
+evaluationDependsOn(":HelloUnitTest")
+
 buildscript {
   repositories {
     mavenLocal()
